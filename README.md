@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of the School District Analysis
-Aggregate data from multiple schools within City School District. The data provided was in different formats and included standardized test results (math and reading), spending and students information. The original data files can be found in the resource folder. 
+Aggregate data from multiple schools within City School District. The data provided was in different formats and included standardized test results (math and reading), spending and students information. The original cvs data files can be found in the resource folder. 
 
 ### Purpose
 The purpose of this analysis is to review the data to provide insight to the City School District regarding performance trends and spend. This analysis will allow the school, district, and superintendent to make informed decisions for next year budget allocation.  
