@@ -32,23 +32,33 @@ The contrast to this is at the school level.  Below we can see a summary per sch
 ![](Resources/per_school_summary_old.png)
 
 Let’s take a closer look at Thomas High School since this was the only school that had data altered. Thomas High School Performance Summary after replacing 9th grades reading and math scores: 
+
 Average Math Score: 	83.4		Average Math Score Updated: 83.3
 Average Reading Score: 83.9		Average Reading Score Updated: 83.9
 % Passing Math:  66.9		% Passing Math Updated: 93.2
 % Passing Reading: 69.7		% Passing Reading Updated: 97.0
 % Overall Passing: 65.1		% Overall Passing Updated: 90.6
+
 The largest changes were in the percentage of students passing both reading and math tests. Passing was defined as any grade above 70.  Overall passing grades at Thomas High School were also increased. 
+
 Updated Per School Summary
- 
+
+![](Resources/per_school_summary_updated.png)
 
 To assist the City School Board, we aggerated the school scores by school type and school spend.  We hope that this binned information will help in next year’s budget.
 
 Scores by School Spending
- 
+
+![](Resources/scores_by_spend.png)
+
 Scores by School Size
- 
+
+![](Resources/scorces_by_size.png)
+
 Scores by School Type
- 
+
+![](Resources/scores_by_type.png) 
+
 ## Summary
 
 School districts have the hard task of allocating budget money each year.  One of the deciding factors on how schools are rated and receive money is based on the standardized test of their students.  Exactly how the district uses the data from the schools to assign budget was outside of the scope of this report.  What we can speak to is the importance of grade integrity on the overall picture of a school.  If we had not removed the 9th grade math and reading scores from Thomas High School (THS), THS would have been rated with lower math, reading and overall passing percentages.  
