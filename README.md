@@ -34,11 +34,13 @@ The contrast to this is at the school level.  Below we can see a summary per sch
 
 Let’s take a closer look at Thomas High School since this was the only school that had data altered. Thomas High School Performance Summary after replacing 9th grades reading and math scores: 
 
-Average Math Score: 	83.4		Average Math Score Updated: 83.3
-Average Reading Score: 83.9		Average Reading Score Updated: 83.9
-% Passing Math:  66.9		% Passing Math Updated: 93.2
-% Passing Reading: 69.7		% Passing Reading Updated: 97.0
-% Overall Passing: 65.1		% Overall Passing Updated: 90.6
+Thomas High School Summary | Thomas High School Summary Updated
+-------------------------- | -----------------------------------
+Average Math Score: 	83.4	|	Average Math Score Updated: 83.3
+Average Reading Score: 83.9		|Average Reading Score Updated: 83.9
+% Passing Math:  66.9	|	% Passing Math Updated: 93.2
+% Passing Reading: 69.7 |		% Passing Reading Updated: 97.0
+% Overall Passing: 65.1	|	% Overall Passing Updated: 90.6
 
 The largest changes were in the percentage of students passing both reading and math tests. Passing was defined as any grade above 70.  Overall passing grades at Thomas High School were also increased. 
 
