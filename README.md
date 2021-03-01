@@ -27,6 +27,7 @@ Below we will find a snapshot of the updated District Summary:
 ![](Resources/district_summary.png)
 
 The first question asked is did the district summary change.  The answer is no it did not change overall.  We only excluded a small population from the larger data set.  From a district perspective, there was little impact in the aggregated data.  
+
 The contrast to this is at the school level.  Below we can see a summary per school BEFORE removing the 9th grade data from Thomas High School.
 
 ![](Resources/per_school_summary_old.png)
