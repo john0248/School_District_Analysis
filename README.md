@@ -20,7 +20,7 @@ Deliverable 1 removed the altered 9th grade math and reading scores from Thomas 
 ### Deliverable 2
 The 2nd deliverable was to rerun the school district analysis with corrected data. 
 
-District Summary
+**District Summary**
 
 Below we will find a snapshot of the updated District Summary:
 
