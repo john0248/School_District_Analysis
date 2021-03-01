@@ -7,10 +7,10 @@ Aggregate data from multiple schools within City School District. The data provi
 The purpose of this analysis is to review the data to provide insight to the City School District regarding performance trends and spend. This analysis will allow the school, district, and superintendent to make informed decisions for next year budget allocation.  
 
 ### Process
-The initial analysis was done as directed by the City School District.  It was identified that some grades may have been altered.  A second analysis was done to remove altered data and reaggregate the results.  The second analysis ensures schools and students are treated fairly in the budgeting process across the district.
+The initial analysis was done as directed by the City School District.  At some point, it was identified some grades may have been altered.  A second analysis was done to remove altered grades and reaggregate the results.  The second analysis ensures schools and students are treated fairly in the budgeting process across the district.
 
 ## Results
-Thomas High School’s 9th grade reading, and math scores were identified as being altered.  The code being submitted in this challenge has 2 main deliverables centered around cleaning up the altered data and rerunning the analysis.  
+Thomas High School’s 9th grade reading and math scores were identified as being altered.  The code being submitted in this challenge has 2 main deliverables centered around cleaning up the altered data and rerunning the analysis.  
 
 ### Deliverable 1
 Deliverable 1 removed the altered 9th grade math and reading scores from Thomas High School.  We did not just delete the grades from the data frame.  We replaced the corrupted data with NaN using the loc method in python.  Below you will find a snippet of the data frame showing only the 9th grade reading and math scores were replaced.  The snippet does not include all columns to protect student identities.      
