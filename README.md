@@ -15,7 +15,7 @@ Thomas High School’s 9th grade reading, and math scores were identified as bei
 ### Deliverable 1
 Deliverable 1 removed the altered 9th grade math and reading scores from Thomas High School.  We did not just delete the grades from the data frame.  We replaced the corrupted data with NaN using the loc method in python.  Below you will find a snippet of the data frame showing only the 9th grade reading and math scores were replaced.  The snippet does not include all columns to protect student identities.      
 
- 
+![](Resources/THS_nan.png)
 
 ### Deliverable 2
 The 2nd deliverable was to rerun the school district analysis with corrected data. 
@@ -24,10 +24,13 @@ District Summary
 
 Below we will find a snapshot of the updated District Summary:
 
- 
+![](Resources/district_summary.png)
+
 The first question asked is did the district summary change.  The answer is no it did not change overall.  We only excluded a small population from the larger data set.  From a district perspective, there was little impact in the aggregated data.  
 The contrast to this is at the school level.  Below we can see a summary per school BEFORE removing the 9th grade data from Thomas High School.
- 
+
+![](Resources/per_school_summary_old.png)
+
 Let’s take a closer look at Thomas High School since this was the only school that had data altered. Thomas High School Performance Summary after replacing 9th grades reading and math scores: 
 Average Math Score: 	83.4		Average Math Score Updated: 83.3
 Average Reading Score: 83.9		Average Reading Score Updated: 83.9
